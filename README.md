@@ -7,4 +7,4 @@ Run it via command line with the first argument as the device to listen on
 
     ./sniffer <device>
 
-Only tested on Linux, I guess it should work with Windows too. Also you will most likely need to sudo or admin.
+Only tested on Linux; could probably work on windows with the npcap library, but that is untested.
